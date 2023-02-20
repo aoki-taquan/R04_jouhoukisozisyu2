@@ -26,3 +26,8 @@
 .main-main img {
     width: 100%;
 }
+
+.main-main .columns_2 img {
+    max-width: 100%;
+    height: auto;
+}
