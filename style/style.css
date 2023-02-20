@@ -91,7 +91,7 @@ header nav {
 
 .top_page_contents {
     padding: 5px;
-    max-width: 750px;
+    max-width: 800px;
     margin: 0 auto;
 }
 
@@ -311,9 +311,10 @@ header img {
     margin: 0 0.5em;
 }
 
-/* footer span {
-    width: 3em;
-} */
+header span,
+footer span {
+    border-top: 2px;
+}
 
 footer a {
     margin-left: auto;
