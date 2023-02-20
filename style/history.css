@@ -1,0 +1,28 @@
+.page_contents {
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 5em;
+}
+
+.page_contents h2 {
+    background-color: #FF7A00;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.page_contents h3 {
+    text-align: center;
+}
+
+.columns_2 {
+    width: 50%;
+}
+
+
+.main-main {
+    margin: 5em 0;
+}
+
+.main-main img {
+    width: 100%;
+}
